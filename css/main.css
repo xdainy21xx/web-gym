@@ -1,0 +1,441 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body{font-family: 'Roboto', sans-serif;}
+
+.container-Welcome{
+    width: 100%;
+    padding-bottom: 180px;
+    padding-top: 30px;
+}
+
+.cont-wel{
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 70px;
+    padding-top: 20px;
+}
+
+.cont-wel h2{
+    font-size: 45px;
+}
+
+.cont-wel p{
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 60px;
+    margin-top: 50px;
+    line-height: 1.6;
+}
+
+.bg-red{
+    width: 5%;
+    height: 2px;
+    background-color: #595454;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cont-p-cards{
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.cont-cards{
+    width: 380px;
+    padding: 30px;
+    border: 1px solid #c5c5c5;
+}
+
+
+.cont-cards i{
+    text-align: center;
+    font-size: 50px;
+    margin: 0 auto;
+    display: block;
+}
+
+
+.fa, .fas { font-size: 25px;}
+
+
+.text-cards h2{
+    padding-top: 20px;
+    color: #b71c1c;
+    font-weight: 30px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.text-cards p{
+    text-align: center;
+    line-height: 1.6;
+}
+
+/*------------slider --------------*/
+.owl-nav{
+    display: none;
+}
+
+.carrucel{
+   padding-top: 40px;
+   padding-bottom: 40px;
+}
+
+/*entrenadores*/
+
+.cont-entrenadores{
+    width: 100%;
+    padding-bottom: 40px;
+    padding-top: 25px;
+
+}
+
+.cont-p-entrenadores{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+    padding-bottom: 50px;
+    
+}
+
+.cards-entrenadores{
+    width: 280px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+.cards-entre img{
+    display: block;
+    margin: 0 auto;
+    object-fit: cover;
+    border-radius: 3px;
+}
+
+
+.cards-entre h2{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.cards-entre p{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 15px;
+    text-align: center;
+    margin: 0px 20px 0 20px;
+    color: #9e9e9e;
+    line-height: 1.6;
+}
+
+
+span{font-size: 16px; }
+.rojo{color: #b71c1c;}
+.cta{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}
+.btm-btm {
+    text-decoration: none;
+    color: #fff;
+    background:#b71c1c ;
+    padding: 20px 35px 20px 35px;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+.btm-btm:hover{ background-color:#e53935;}
+
+.enternadores-redes{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+.enternadores-redes i{
+    font-size: 25px;
+    color: #b71c1c; 
+    padding: 15px;
+    text-decoration: none;  
+}
+
+
+
+/*blog*/
+.blog{
+    width: 100%;
+   background-color:#101010;
+   padding-top: 40px;
+   padding-bottom: 40px;
+}
+
+.cont-blog {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 70px;
+    font-size: 28px;
+    color: #fff;
+}
+
+.cont-blog h2{font-size: 45px;}
+
+.blog-p-container{
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.blog-card{
+    width: 380px;
+    border: 2px solid #595454;
+    margin: 20px;
+    transition: 0.5s;
+}
+
+.blog-card:hover{
+    border: 2px solid #e53935;
+}
+
+.blog-card img{
+    width:100%
+}
+
+.blog-card h2{
+    color: #fff;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 10px;
+}
+
+
+
+.blog-card p{
+    color: #9e9e9e;
+    margin: 20px;
+    font-weight: 300;
+    font-size: 18px;
+    text-align: left;
+    line-height: 1.6;
+}
+
+
+
+/*PRECIO*/
+.precio{
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.precio-p-container{
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+.precio-card{
+    width: 380px;
+    text-align: center;
+    border: 1px solid #b71c1c;
+}
+.precio-card:hover{
+    border: 1px solid #fff;
+    background-color: #b71c1c;
+    color: #fff;
+    transition: 0.5s;
+}
+
+
+.precio-card h2{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.precio-card p{
+    font-size: 18px;
+   margin-top: 30px;
+   margin-bottom: 30px;
+}
+
+.botton-precio{
+    width: 200px;
+    background-color:#b71c1c ;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    padding: 15px 30px 15px 30px;
+    border-radius: 5px;
+}
+.botton-precio a {
+    text-decoration: none;
+    color:#fff;
+}
+
+.precio-card sup{
+    font-size: 18px;
+}
+
+.precio-card span{
+    font-size: 45px;
+}
+.precio-card sub{
+    font-size: 20px;
+}
+
+
+
+.bg-precio{
+    width: 5%;
+    height: 2px;
+    background-color: #b71c1c;
+    margin: 0 auto;
+}
+
+.precio-color{
+    background-color: #b71c1c;
+    color: #fff;
+    border: 1px solid #9e9e9e;
+
+}
+
+.botton-precio-blanco{
+    width: 200px;
+    background-color:#b71c1c ;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    padding: 15px 30px 15px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    border: 1px solid #fff;
+}
+
+.botton-precio-blanco a{
+    text-decoration: none;
+    color: #fff;
+}
+.color-bl{
+    color: #fff;
+}
+
+
+/*contacto*/
+.contacto{
+    width: 100%;
+    background-attachment: fixed;
+    background-image: url(../img/contacto1.jpg);
+    background-position: 50% 50% !important;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+
+
+
+.cont-p-contacto{
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.card-contacto{
+    width: 550px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.card-contacto p{
+    color: #fff;
+    line-height: 2.5;
+    font-size: 16px;
+}
+
+
+.card-form-1{
+    width: 100%;
+    float: left;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+#form_name{
+    width: 100%;
+    font-size: 14px;
+    border: 1px solid #cacaca;
+    padding: 15px;
+    border-radius: 2px;
+    height: auto;
+}
+
+#form_message{
+    width: 100%;
+    height: 250px;
+    font-size: 14px;
+    border: 1px solid #cacaca;
+    padding: 15px;
+    border-radius: 2px;
+}
+
+
+.card-cont-tex{
+    width: 100%;
+    padding: 20px;
+}
+
+.card-cont-tex textarea.form-control {
+
+    background: transparent;
+    color: #fff;
+}
+
+.card-form-1 input.form-control{
+    background: transparent;
+    color: #fff;
+    
+}
+

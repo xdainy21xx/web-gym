@@ -1,0 +1,417 @@
+
+@media screen  and (max-width:1466px){
+    .cont-p-entrenadores {
+        width: 100%;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    .cont-cards {
+        width: 320px;
+        padding: 30px;
+    }
+
+
+    .cards-entrenadores {
+        width: 280px;
+        margin: 0 auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .blog-card{
+        width: 320px;
+        margin: 10px;
+    }
+
+    .precio-p-container{
+        width: 100%;
+        padding: 20px;
+    }
+
+
+    .precio-card{
+        width: 380px;
+    }
+
+    .cont-p-contacto{
+        width: 100%;
+    }
+
+    .card-contacto{
+        width: 450px;
+    }
+
+    .card-contacto span {
+        font-size: 16px;
+    }
+
+    .card-contacto p {
+        font-size: 16px;
+    }
+
+
+
+    #form_message {
+        width: 100%;
+        height: 250px;
+        font-size: 14px;
+        border: 1px solid #cacaca;
+        padding: 15px;
+        border-radius: 2px;
+    }
+    
+    .card-form-1 {
+        width: 100%;
+     }
+    
+    #form_name {
+        width: 100%;
+        font-size: 14px;
+        border: 1px solid #cacaca;
+        padding: 15px;
+        border-radius: 2px;
+        height: auto;
+    }
+
+   
+}
+
+
+
+@media screen  and (max-width:1200px){
+    .cont-p-cards {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .cont-cards {
+        width: 280px;
+        padding: 30px;
+        position: relative;
+    }
+
+    .cont-p-entrenadores {
+        width: 75%;
+    }
+
+    .cards-entrenadores {
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    .blog-p-container{
+        width: 100%;
+    }
+
+    .blog-card{
+        width: 290px;
+        margin: 10px;
+    }
+
+    .precio-p-container{
+        width: 100%;
+        padding: 20px;
+    }
+    
+    
+    .precio-card{
+        width: 330px;
+    }
+
+    .cont-p-contacto{
+        width: 100%;
+    }
+    
+    .card-contacto{
+        width: 450px;
+    }
+
+
+    #form_message {
+        width: 100%;
+        height: 250px;
+        font-size: 14px;
+        border: 1px solid #cacaca;
+        padding: 15px;
+        border-radius: 2px;
+    }
+    
+    .card-form-1 {
+        width: 100%;
+     }
+    
+    #form_name {
+        width: 100%;
+        font-size: 14px;
+        border: 1px solid #cacaca;
+        padding: 15px;
+        border-radius: 2px;
+        height: auto;
+    }
+
+    .card-contacto span {
+        font-size: 16px;
+    }
+
+    .card-contacto p {
+        font-size: 16px;
+    }
+
+
+}
+
+
+@media screen  and (max-width:1079px){
+
+    .cont-p-cards {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .cont-cards {
+        width: 270px;
+        padding: 30px;
+    }
+
+    .blog-p-container{
+        width: 100%;
+    }
+
+    .blog-card{
+        width: 270px;
+        margin: 10px;
+    }
+
+    .precio-p-container{
+        width: 100%;
+        padding: 20px;
+    }
+    
+    .precio-card{
+        width: 280px;
+    }
+
+    .card-contacto{
+        width: 450px;
+    }
+    
+
+    #form_message {
+        width: 100%;
+        height: 250px;
+        font-size: 14px;
+        border: 1px solid #cacaca;
+        padding: 15px;
+        border-radius: 2px;
+    }
+    
+    .card-form-1 {
+        width: 100%;
+     }
+    
+    #form_name {
+        width: 100%;
+        font-size: 14px;
+        border: 1px solid #cacaca;
+        padding: 15px;
+        border-radius: 2px;
+        height: auto;
+    }
+
+}
+
+@media screen  and (max-width:927px){
+
+    .container-Welcome {
+        padding-top: 25px;
+    }
+
+    .blog {
+        padding-bottom: 30px;
+    }
+
+    .cont-blog {
+        margin-top: 75px;
+    }
+
+    .cont-entrenadores {
+        padding-top: 30px;
+    }
+    .cont-wel {
+        margin-top: 70px;
+    }
+
+    .cont-p-cards {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .cont-cards {
+        width: 600px;
+        padding: 30px;
+        margin-top: 60px;
+    }
+    
+    .blog-p-container{
+        width: 90%;
+    }
+
+    .blog-card{
+        width: 500px;
+        margin: 10px;
+        margin-top: 40px;
+    }
+
+    .precio-p-container{
+        width: 90%;
+        padding: 20px;
+    }
+    
+    .precio-card{
+        width: 400px;
+        margin-top: 40px;
+    }
+
+    .cont-p-contacto{
+        width: 90%;
+    }
+
+    .card-contacto{
+        width: 400px;
+    }
+    
+    .contacto {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    } 
+
+    .card-contacto p span {
+        text-align: center;
+        display: block;
+    }
+
+    .card-contacto p  {
+        text-align: center;
+        display: block;
+    }
+
+    #form_message {
+    width: 100%;
+    height: 250px;
+    font-size: 14px;
+    border: 1px solid #cacaca;
+    padding: 15px;
+    border-radius: 2px;
+    }
+
+    .card-form-1 {
+        width: 100%;
+    }
+
+    #form_name {
+        width: 100%;
+        font-size: 14px;
+        border: 1px solid #cacaca;
+        padding: 15px;
+        border-radius: 2px;
+        height: auto;
+    }
+
+}
+
+
+@media screen  and (max-width:400px){
+    
+    .card-contacto p span {
+        text-align: center;
+        display: block;
+    }
+
+    .card-contacto p  {
+        text-align: center;
+        display: block;
+    }
+
+    #form_message {
+    width: 100%;
+    height: 250px;
+    font-size: 14px;
+    border: 1px solid #cacaca;
+    padding: 15px;
+    border-radius: 2px;
+    }
+
+    .card-form-1 {
+        width: 100%;
+    }
+
+    #form_name {
+        width: 100%;
+        font-size: 14px;
+        border: 1px solid #cacaca;
+        padding: 15px;
+        border-radius: 2px;
+        height: auto;
+    }
+
+}
+
+@media screen  and (max-width:350px){
+    .cont-wel h2 {
+        font-size: 30px;
+    }
+    .cont-cards i {
+        top: -25px;
+        left: 40%;
+    }
+
+    .btm-btm {
+        padding: 20px 30px 20px 41px;
+    }
+
+    .cont-blog h2 {
+        font-size: 30px;
+        color: #fff;
+    }
+   
+}
+
+@media screen  and (max-width:300px){
+    
+    .bg-red {
+        width: 20%;
+        height: 4px;
+    }
+    .cont-cards i {
+        top: -25px;
+        left: 40%;
+    }
+    .precio-card p {
+        font-size: 16px;
+    }
+
+    .cont-wel h2 {
+        font-size: 25px
+    }
+
+    .cont-blog h2 {
+        font-size: 25px;
+    }
+
+    .blog-card h2 {
+        font-size: 12px;
+    }
+
+    .blog-card p {
+        font-size: 15px;
+    }
+
+    .cards-entre h2 {
+        font-size: 20px;
+
+    }
+
+}
